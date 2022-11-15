@@ -1,0 +1,6 @@
+admin.addPeer(enode://2779567c3daf03bd00dbf7bf8ee872329383dc719a7a2213d20eaef9c43e5bfcd8a6095c7fae09d4a8f8395cc2226979cbda34ab38d5061b45b168bb0cd99ad1@127.0.0.1:30303)
+admin.addPeer(enode://2779567c3daf03bd00dbf7bf8ee872329383dc719a7a2213d20eaef9c43e5bfcd8a6095c7fae09d4a8f8395cc2226979cbda34ab38d5061b45b168bb0cd99ad1@192.168.50.122:30303)
+admin.nodeInfo.enode
+admin.addPeer(enode://2779567c3daf03bd00dbf7bf8ee872329383dc719a7a2213d20eaef9c43e5bfcd8a6095c7fae09d4a8f8395cc2226979cbda34ab38d5061b45b168bb0cd99ad1@192.168.50.122:30303)
+geth attach ipc:\\.\pipe\geth.ipc
+admin.nodeInfo.enode
